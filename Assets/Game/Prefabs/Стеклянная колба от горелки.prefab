@@ -446,6 +446,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Magic fire pro orange Variant Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 1202636915418937632, guid: 77e62c0eab8f7c540b8489044012b60a,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1205153854959117100, guid: 77e62c0eab8f7c540b8489044012b60a,
         type: 3}
       propertyPath: m_RootOrder
