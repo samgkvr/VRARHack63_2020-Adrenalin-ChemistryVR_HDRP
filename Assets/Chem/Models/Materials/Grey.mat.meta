@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream:Assets/Chem/Models/Materials/Grey.mat.meta
+guid: fbb841c83f2e3fd4b910af2127b8db8c
+NativeFormatImporter:
+=======
+guid: aa85ee1cfa71363419ba9da4edf12b9d
+folderAsset: yes
+DefaultImporter:
+>>>>>>> Stashed changes:Assets/Game/Scripts/Chem/Sources.meta
+=======
+guid: 84ae49be91599694aa88bfac2a387508
+NativeFormatImporter:
+>>>>>>> Stashed changes
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
