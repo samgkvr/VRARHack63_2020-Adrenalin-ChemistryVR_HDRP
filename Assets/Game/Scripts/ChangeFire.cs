@@ -25,7 +25,7 @@ public class ChangeFire : MonoBehaviour
     {
         if (other.tag == "Li+")
         {
-            main.startColor = Color.black;
+            main.startColor = new Color(0.9058824F, 0.3294118F, 0.5019608F, 1.0F);
         }
         if (other.tag == "Na+")
         {
@@ -33,7 +33,7 @@ public class ChangeFire : MonoBehaviour
         }
         if (other.tag == "K+")
         {
-            main.startColor = Color.magenta;
+            main.startColor = new Color(0.5019608F, 0F, 0.5019608F, 1.0F);
         }
         if (other.tag == "Rb+")
         {
@@ -41,7 +41,7 @@ public class ChangeFire : MonoBehaviour
         }
         if (other.tag == "Cs+")
         {
-            main.startColor = Color.cyan;
+            main.startColor = new Color(0F, 0.7490196F, 0F, 1.0F);
         }
         if (other.tag == "Cap")
         {
