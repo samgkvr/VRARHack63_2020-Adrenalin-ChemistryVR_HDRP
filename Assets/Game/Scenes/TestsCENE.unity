@@ -4164,7 +4164,7 @@ Light:
   m_RenderingLayerMask: 1
   m_Lightmapping: 4
   m_LightShadowCasterMode: 2
-  m_AreaSize: {x: 1, y: 1}
+  m_AreaSize: {x: 0.5, y: 0.5}
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
@@ -6494,7 +6494,7 @@ PrefabInstance:
     - target: {fileID: 3290417639972520152, guid: d8412a0b1bdf5b046bc3229d321a884e,
         type: 3}
       propertyPath: m_Intensity
-      value: 10000
+      value: 3025
       objectReference: {fileID: 0}
     - target: {fileID: 3290417639972520158, guid: d8412a0b1bdf5b046bc3229d321a884e,
         type: 3}
@@ -6534,17 +6534,27 @@ PrefabInstance:
     - target: {fileID: 3290417639972520159, guid: d8412a0b1bdf5b046bc3229d321a884e,
         type: 3}
       propertyPath: m_Intensity
-      value: 10000
+      value: 9503.318
+      objectReference: {fileID: 0}
+    - target: {fileID: 3290417639972520159, guid: d8412a0b1bdf5b046bc3229d321a884e,
+        type: 3}
+      propertyPath: m_AreaSize.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3290417639972520159, guid: d8412a0b1bdf5b046bc3229d321a884e,
+        type: 3}
+      propertyPath: m_AreaSize.y
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 3290417639972520159, guid: d8412a0b1bdf5b046bc3229d321a884e,
         type: 3}
       propertyPath: m_BoundingSphereOverride.w
-      value: 0
+      value: 1e-45
       objectReference: {fileID: 0}
     - target: {fileID: 3290417639972520159, guid: d8412a0b1bdf5b046bc3229d321a884e,
         type: 3}
       propertyPath: m_BoundingSphereOverride.x
-      value: 4.5443564e+30
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3290417639972520159, guid: d8412a0b1bdf5b046bc3229d321a884e,
         type: 3}
