@@ -2,10 +2,10 @@
 
 public class ChangeFire : MonoBehaviour
 {
-    public ParticleSystem main; //управление частицами
-    public GameObject m_main; //управление обьектом
-    public bool main_active;
-    public bool main_cap;
+    [SerializeField] private ParticleSystem main; //управление частицами
+    [SerializeField] private GameObject m_main; //управление обьектом
+    private bool main_active;
+    private bool main_cap;
 
     // Start is called before the first frame update
     void Start()
@@ -13,12 +13,6 @@ public class ChangeFire : MonoBehaviour
         //main = GetComponent<ParticleSystem>();
         //main.startColor = Color.blue;
         m_main.SetActive(false);
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 
     private void OnTriggerEnter(Collider other)
