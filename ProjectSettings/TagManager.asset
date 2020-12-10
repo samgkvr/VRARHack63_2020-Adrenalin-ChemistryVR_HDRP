@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Rb+
+  - Na+
+  - Cs+
+  - Li+
+  - K+
+  - Cap
+  - pipette_1
+  - pipette_2
+  - pipette_3
   layers:
   - Default
   - TransparentFX

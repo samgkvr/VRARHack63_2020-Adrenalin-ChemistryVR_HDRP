@@ -6549,22 +6549,22 @@ PrefabInstance:
     - target: {fileID: 3290417639972520159, guid: d8412a0b1bdf5b046bc3229d321a884e,
         type: 3}
       propertyPath: m_BoundingSphereOverride.w
-      value: 0
+      value: 2.73e-43
       objectReference: {fileID: 0}
     - target: {fileID: 3290417639972520159, guid: d8412a0b1bdf5b046bc3229d321a884e,
         type: 3}
       propertyPath: m_BoundingSphereOverride.x
-      value: 0
+      value: NaN
       objectReference: {fileID: 0}
     - target: {fileID: 3290417639972520159, guid: d8412a0b1bdf5b046bc3229d321a884e,
         type: 3}
       propertyPath: m_BoundingSphereOverride.y
-      value: 1.6114932e-38
+      value: -1.7568266e-11
       objectReference: {fileID: 0}
     - target: {fileID: 3290417639972520159, guid: d8412a0b1bdf5b046bc3229d321a884e,
         type: 3}
       propertyPath: m_BoundingSphereOverride.z
-      value: 0
+      value: 6.22e-43
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d8412a0b1bdf5b046bc3229d321a884e, type: 3}
@@ -12769,6 +12769,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: pipette_3
       objectReference: {fileID: 0}
+    - target: {fileID: 5083941095369186071, guid: 7f560c11cc2cc5a4e865ad79c775a065,
+        type: 3}
+      propertyPath: m_TagString
+      value: pipette_3
+      objectReference: {fileID: 0}
     - target: {fileID: 5604195172063494573, guid: 7f560c11cc2cc5a4e865ad79c775a065,
         type: 3}
       propertyPath: m_RootOrder
@@ -16041,6 +16046,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: pipette_2
       objectReference: {fileID: 0}
+    - target: {fileID: 5083941095369186071, guid: 7f560c11cc2cc5a4e865ad79c775a065,
+        type: 3}
+      propertyPath: m_TagString
+      value: pipette_2
+      objectReference: {fileID: 0}
     - target: {fileID: 5604195172063494573, guid: 7f560c11cc2cc5a4e865ad79c775a065,
         type: 3}
       propertyPath: m_RootOrder
@@ -18547,6 +18557,11 @@ PrefabInstance:
     - target: {fileID: 5083941095369186071, guid: 7f560c11cc2cc5a4e865ad79c775a065,
         type: 3}
       propertyPath: m_Name
+      value: pipette_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5083941095369186071, guid: 7f560c11cc2cc5a4e865ad79c775a065,
+        type: 3}
+      propertyPath: m_TagString
       value: pipette_1
       objectReference: {fileID: 0}
     - target: {fileID: 5604195172063494573, guid: 7f560c11cc2cc5a4e865ad79c775a065,
