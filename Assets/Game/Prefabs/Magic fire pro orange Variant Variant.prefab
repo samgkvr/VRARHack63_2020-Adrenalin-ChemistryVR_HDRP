@@ -30,7 +30,7 @@ PrefabInstance:
     - target: {fileID: 6810352692458010266, guid: 7b9d4a1e93280c940a3368e16cc4181e,
         type: 3}
       propertyPath: m_Name
-      value: Magic fire pro orange Variant
+      value: Magic fire pro orange Variant Variant
       objectReference: {fileID: 0}
     - target: {fileID: 6812316056624000150, guid: 7b9d4a1e93280c940a3368e16cc4181e,
         type: 3}
