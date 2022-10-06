@@ -4,5 +4,5 @@
  ---
  [Видео](https://youtu.be/jCM9NoEoXug)
  ---
- [Трансляция защиты](https://youtu.be/ygcIMWnDQV4)
+ [Трансляция защиты](https://youtu.be/ygcIMWnDQV4?t=6270)
  ---
