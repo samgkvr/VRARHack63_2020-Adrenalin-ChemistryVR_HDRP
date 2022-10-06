@@ -1,4 +1,6 @@
-# TASKILLS-2021_SGK-TEAMS
+# VRARHack63_2020-Adrenalin-ChemistryVR_HDRP
  ---
- [Презентация](https://github.com/samgkvr/VRARHack63-2020_Adrenalin_ChemistryVR-HDRP/raw/main/Pres.pptx)
+ [Презентация](https://github.com/samgkvr/VRARHack63_2020-Adrenalin-ChemistryVR_HDRP/raw/main/Pres.pptx)
+ ---
  [Видео](https://youtu.be/jCM9NoEoXug)
+ ---
